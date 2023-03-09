@@ -435,10 +435,6 @@ footer p:nth-child(2) {
         font-size: 40px;
     }
 
-    .logo span {
-        font-size: 30px;
-    }
-
     nav ul, nav .btn {
         display: none;    
     }
@@ -524,14 +520,6 @@ footer p:nth-child(2) {
 }
 
 @media screen and (max-width: 550px) {
-    .logo {
-        font-size: 30px;
-    }
-
-    .logo span {
-        font-size: 30px;
-    }
-
     nav .icon {
         display: block;
         margin-right: 2rem;
@@ -590,11 +578,13 @@ footer p:nth-child(2) {
     
     .contact p {
         font-size: 25px;
-        margin: 1rem;
-        
+        margin: 1rem;    
     }
     
     .foot p:nth-child(2), p:last-child {
         font-size: 18px;
+    }
+    .logo span {
+        font-size: 20px;
     }
 }
