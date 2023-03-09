@@ -431,8 +431,12 @@ footer p:nth-child(2) {
         position: absolute;
     }
 
-    .logo, .logo span {
+    .logo {
         font-size: 40px;
+    }
+
+    .logo span {
+        font-size: 30px;
     }
 
     nav ul, nav .btn {
