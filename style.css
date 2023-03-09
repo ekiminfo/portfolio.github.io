@@ -147,8 +147,8 @@ p {
     padding: 10px 30px;
     border-radius: 20px;
     background-color: #f9904d;
-    top: 6px;
-    right: 6px;
+    top: 0.4rem;
+    right: 0.5rem;
 }
 
 .about {
