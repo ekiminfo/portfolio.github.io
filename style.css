@@ -520,7 +520,11 @@ footer p:nth-child(2) {
 }
 
 @media screen and (max-width: 550px) {
-    .logo, .logo span {
+    .logo {
+        font-size: 30px;
+    }
+
+    .logo span {
         font-size: 30px;
     }
 
