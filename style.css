@@ -545,6 +545,10 @@ footer p:nth-child(2) {
         margin: 1rem;
     }
 
+    .about-text a {
+        font-size: 18px;
+    }
+
     .main-about img {
         height: 300px;
         width: 390;
